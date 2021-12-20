@@ -1,3 +1,3 @@
 # go-practice
 practice
-Days until christmas:7days
+Days until christmas:5days
