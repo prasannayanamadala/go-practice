@@ -4,8 +4,6 @@ import (
 	"fmt"
 	"sort"
 )
-
-
 func main(){
 
 	fruits := []struct {
